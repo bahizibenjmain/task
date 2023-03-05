@@ -1,0 +1,83 @@
+html,body{
+    background-color:black;
+}
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    margin-top: 200px;
+}
+.icon{
+    height:30px;
+    width: 30px;
+    border: 0px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Dosis', sans-serif;
+}
+.menu{
+    color: white;
+    display: flex;
+    
+}
+.football{
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(14, 13, 13);
+    font-family: 'poppins', sans-serif;
+    padding: 10px;
+    border-radius: 40px;
+    margin-top: 30px;
+    border: 0px;
+}
+.LiveScore{
+    font-family: 'Dosis', sans-serif;
+}
+.Search{
+    background-color: black;
+    color: wheat;
+   
+}
+.icon1{
+    height: 15px;
+    width: 25px;
+}
+.countries{
+    font-family: 'poppins', sans-serif;
+    display: contents;
+    max-height: fit-content;
+
+}
+.england{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.icon2{
+    height: 20px;
+    width: 20px;
+}
+.england2{
+    text-decoration: none;
+    color: white;
+}
+.fictures{
+    color: white;
+    font-family: 'poppins', sans-serif;
+    display: flex;
+   align-content: center;
+    margin-block-end: 100px;
+    align-content: center;
+
+    
+
+}
+.england3{
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    font-family: 'poppins', sans-serif;
+    padding: 5px;
+    border-radius: 4px;
+    border: 0px;
+}
